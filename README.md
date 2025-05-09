@@ -44,21 +44,20 @@ part1/
 Pattern classification **Intermediary** +**Strategy** for communication management and resource allocation/posad.
 
 ## 📂 Structure
-``
-part 2/
-├─ source/part 2/
+```
+part2/
+├─ src/part2/
 │  ├─ TowerMediator.java
-│ ├─ RunwayScheduler.java
-│ ├─ FuelPriorityScheduler.java
-│ ├─ VipPriorityScheduler.java
-│ ├─ ControlTower.java
-│ ├─ Aircraft.java
-│ ├─ PassengerPlane.java
-│ ├─ CargoPlane.java
-│ ├─ Helicopter.java
+│  ├─ RunwayScheduler.java
+│  ├─ FuelPriorityScheduler.java
+│  ├─ VipPriorityScheduler.java
+│  ├─ ControlTower.java
+│  ├─ Aircraft.java
+│  ├─ PassengerPlane.java
+│  ├─ CargoPlane.java
+│  ├─ Helicopter.java
 │  ├─ Simulation.java
 └─ README.md
-```
 
 ## , Features
 - 🎯 **Control tower** as an operator for requests
