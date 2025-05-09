@@ -111,3 +111,4 @@ CP2 is queued for takeoff.
 Runway provided by CP2 (take-off)
 CargoPlane CP2 Console: Takeoff allowed
 `
+![image](https://github.com/user-attachments/assets/d45fbc8c-f029-4265-9509-71636232a3be)
